@@ -1,5 +1,5 @@
 # go-todo
-Just a ToDo list of tasks that I would like to solve to using Go
+Just a ToDo list of tasks that I would like to solve using Go.
 
 Tasks: 
 - [ ] Elastic IP failover from one instance to other instance using Go
