@@ -14,5 +14,5 @@ Tasks:
 
 - [ ] Docker-ize your development workstation.
   - [ ] Should contain all the required softwares you would need.
-  - [ ] Try installing the Non-CLI appliactions as well.
+  - [ ] Try installing non-CLI appliactions as well.
   - [ ] The solution should be fealsible enough to add or remove software. 
