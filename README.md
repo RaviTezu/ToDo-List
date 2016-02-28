@@ -15,7 +15,7 @@ Tasks:
 - [ ] Docker-ize your development workstation.
   - [ ] Should contain all the required softwares you would need.
   - [ ] Try installing non-CLI appliactions as well.
-  - [ ] The solution should be fealsible enough to add or remove software. 
+  - [ ] The solution should be feasible enough to add or remove software. 
 
 - [ ] A web crawler which can crawl the link and down some specific files.
   - [ ] You need this to download mp3 files from one machine to other.
