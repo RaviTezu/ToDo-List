@@ -16,3 +16,10 @@ Tasks:
   - [ ] Should contain all the required softwares you would need.
   - [ ] Try installing non-CLI appliactions as well.
   - [ ] The solution should be fealsible enough to add or remove software. 
+
+- [ ] A web crawler which can crawl the link and down some specific files.
+  - [ ] You need this to download mp3 files from one machine to other.
+  - [ ] Run `python -m SimpleHTTPServer` on one machine and download the files to other machines using this crawler.
+
+- [ ] A script to read the live logs and find the unique IP addresses and maps them to Geo-Locations.
+  - [ ] Send the collected data to some tool or built one. Kinda heat map?
