@@ -17,7 +17,7 @@ Tasks:
   - [ ] Try installing non-CLI appliactions as well.
   - [ ] The solution should be feasible enough to add or remove software. 
 
-- [ ] A web crawler which can crawl the link and down some specific files.
+- [ ] A web crawler which can crawl the link and down some specific files.(go-scraper)
   - [ ] You need this to download mp3 files from one machine to other.
   - [ ] Run `python -m SimpleHTTPServer` on one machine and download the files to other machines using this crawler.
 
